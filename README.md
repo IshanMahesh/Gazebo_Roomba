@@ -10,7 +10,7 @@ Clone the repository in your ROS2 workspace.
 cd < path_to_your_workspace >/src
 
 # For cloning using SSH
-git clone git@github.com:IshanMahesh?Gazebo_Roomba.git
+git clone git@github.com:IshanMahesh/Gazebo_Roomba.git
 
 ```
 
